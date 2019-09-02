@@ -1,5 +1,5 @@
-# capsimg
-Capsimg library for Android
+# Capsimg (IPF) Android
+This is the Capsimg (IPF) library for Android
 
 Original sources retrieved from https://github.com/lubomyr/uae4arm/tree/master/plugins/capsimage on 09/02/2019
 
