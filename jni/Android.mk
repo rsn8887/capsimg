@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := capsimage
+LOCAL_MODULE := capsimg
 
 APP_SUBDIRS := $(patsubst $(LOCAL_PATH)/%, %, $(shell find $(LOCAL_PATH)/../CAPSImg \
 														   $(LOCAL_PATH)/../Codec \
